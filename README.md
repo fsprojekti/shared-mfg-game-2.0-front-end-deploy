@@ -1,0 +1,1 @@
+# shared-mfg-game-2.0-front-end-deploy
